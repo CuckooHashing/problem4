@@ -1,0 +1,7 @@
+D:\Facultate\Stuff\problem4\problem4\bin\Debug\problem4.exe.config
+D:\Facultate\Stuff\problem4\problem4\bin\Debug\problem4.exe
+D:\Facultate\Stuff\problem4\problem4\bin\Debug\problem4.pdb
+D:\Facultate\Stuff\problem4\problem4\obj\Debug\problem4.csprojAssemblyReference.cache
+D:\Facultate\Stuff\problem4\problem4\obj\Debug\problem4.csproj.CoreCompileInputs.cache
+D:\Facultate\Stuff\problem4\problem4\obj\Debug\problem4.exe
+D:\Facultate\Stuff\problem4\problem4\obj\Debug\problem4.pdb
